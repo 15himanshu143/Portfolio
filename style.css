@@ -1,0 +1,114 @@
+*{
+    font-family: 'Inter', sans-serif;
+    /* background-color: red; */
+}
+
+body{
+
+}
+
+.Section1{
+    background: url(./Images/Background.jpg);
+    background-position: fixed;
+    height: 100vh;
+    background-size: cover;
+    position: ;
+}
+
+/* Navbar  */
+.navbar{
+    background: transparent;
+    
+}
+.navbar-brand{
+font-style: italic;
+}
+.nav-link:hover{
+    text-decoration: underline red 2px;
+    
+}
+
+/* Header section  */
+.Profile{
+    padding-left: 18ch;
+}
+.intro{ 
+    padding-top: 8ch;
+    text-align: left;
+    color: rgb(204, 215, 253);
+    font-family: sans-serif;
+    padding-left: 115px;
+    font-size: 30px;
+    margin-bottom: 1px;
+}
+.intro2{
+    text-align: left;
+    padding-left: 115px ;
+    padding-top: 0px;
+    color: rgb(204, 215, 253);
+}
+.intro2 span{
+    font-family: 'Merriweather', serif;
+    color: rgb(244, 70, 70);
+    
+}
+.intro3{
+   
+        padding-top: 00px;
+        text-align: left;
+        color: rgb(217, 217, 217);
+        font-family: sans-serif;
+        padding-left: 115px;
+        font-size: larger;
+     
+}
+
+.fa-twitter{
+    margin-left: 210px;
+}
+.head-img{
+    width: 22ch;
+    padding-top: 90px;
+   padding-left: 0px;
+   box-shadow: rgba(116, 115, 115, 0.15) 2.4px 2.4px 3.2px;;
+ 
+
+}
+
+/* About section */
+.Section2{
+
+    background: rgb(12, 12, 19);
+    height: 100vh;
+    color: aliceblue;
+}
+
+.about{
+    padding-top: 10ch;
+ 
+}
+.about-img{
+    height:20px;
+    width: 230px;
+    padding-left: 0px;
+}
+
+/* Skills Section */
+
+.Section3{
+    height: 100vh;
+    background: rgb(20, 20, 20);
+   
+}
+.Section3>.row>.skills{
+    padding-left: 20ch;
+    margin-top: 12ch;
+}
+
+/* section 4  Projects*/
+
+.Section4>.row{
+ display: flex;
+ margin: auto;
+
+}
